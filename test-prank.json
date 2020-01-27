@@ -1,1 +1,44 @@
-{"https://github.com/localForage/localForage":[],"https://www.google.com/search?q=chrome+extension+change+all+links&rlz=1C1CHZL_enIL686IL686&oq=chrome+extension+change+all+links&aqs=chrome..69i57j0.5318j0j7&sourceid=chrome&ie=UTF-8":[{"selector":"#rso > div:nth-child(2) > .g > .kp-blk > .xpdopen > .ifM9O > .JolIg","props":{"text":"More stupid questions:"}}],"https://www.lipsum.com/":[{"selector":"#Panes > div:nth-child(5) > h2","props":{"text":"Where can I get some of that ass? haaa"}},{"selector":"#Panes > div:nth-child(4) > h2","props":{"text":"Where does it come from? dfjdhfd"}}],"https://www.w3schools.com/html/html5_video.asp":[],"https://www.ynet.co.il/home/0,7340,L-8,00.html":[],"https://www.youtube.com/watch?v=iZDQ0-Zbpt8":[],"https://www.youtube.com/watch?v=w9xZr2IQ3AA":[{"selector":"#movie_player > .html5-video-container > .video-stream","props":{"videoSrc":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"}}]}
+{
+   "https://github.com/localForage/localForage":[
+
+   ],
+   "https://www.google.com/search?q=chrome+extension+change+all+links&rlz=1C1CHZL_enIL686IL686&oq=chrome+extension+change+all+links&aqs=chrome..69i57j0.5318j0j7&sourceid=chrome&ie=UTF-8":[
+      {
+         "selector":"#rso > div:nth-child(2) > .g > .kp-blk > .xpdopen > .ifM9O > .JolIg",
+         "props":{
+            "text":"More stupid questions:"
+         }
+      }
+   ],
+   "https://www.lipsum.com/":[
+      {
+         "selector":"#Panes > div:nth-child(5) > h2",
+         "props":{
+            "text":"Where can I get some of that? How?"
+         }
+      },
+      {
+         "selector":"#Panes > div:nth-child(4) > h2",
+         "props":{
+            "text":"Where does it come from? dfjdhfd"
+         }
+      }
+   ],
+   "https://www.w3schools.com/html/html5_video.asp":[
+
+   ],
+   "https://www.ynet.co.il/home/0,7340,L-8,00.html":[
+
+   ],
+   "https://www.youtube.com/watch?v=iZDQ0-Zbpt8":[
+
+   ],
+   "https://www.youtube.com/watch?v=w9xZr2IQ3AA":[
+      {
+         "selector":"#movie_player > .html5-video-container > .video-stream",
+         "props":{
+            "videoSrc":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+         }
+      }
+   ]
+}
