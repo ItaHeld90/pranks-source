@@ -1,44 +1,12 @@
 {
-   "https://github.com/localForage/localForage":[
-
-   ],
-   "https://www.google.com/search?q=chrome+extension+change+all+links&rlz=1C1CHZL_enIL686IL686&oq=chrome+extension+change+all+links&aqs=chrome..69i57j0.5318j0j7&sourceid=chrome&ie=UTF-8":[
-      {
-         "selector":"#rso > div:nth-child(2) > .g > .kp-blk > .xpdopen > .ifM9O > .JolIg",
-         "props":{
-            "text":"More stupid questions:"
-         }
-      }
-   ],
-   "https://www.lipsum.com/":[
-      {
-         "selector":"#Panes > div:nth-child(5) > h2",
-         "props":{
-            "text":"blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa?"
-         }
-      },
-      {
-         "selector":"#Panes > div:nth-child(4) > h2",
-         "props":{
-            "text":"Where does it come from? dfjdhfd"
-         }
-      }
-   ],
-   "https://www.w3schools.com/html/html5_video.asp":[
-
-   ],
    "https://www.ynet.co.il/home/0,7340,L-8,00.html":[
-
-   ],
-   "https://www.youtube.com/watch?v=iZDQ0-Zbpt8":[
-
-   ],
-   "https://www.youtube.com/watch?v=w9xZr2IQ3AA":[
       {
-         "selector":"#movie_player > .html5-video-container > .video-stream",
+         "selector":"#top-story-1 > .top-story-main > .top-story-media > .media_image_link_box > .media_image_link",
          "props":{
-            "videoSrc":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            "imgSrc":"data:image/jpeg;base64,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"
          }
       }
-   ]
+   ],
+   "prankMode":0,
+   "remotePrankURL":"https://raw.githubusercontent.com/ItaHeld90/pranks-source/master/test-prank.json"
 }
