@@ -1,45 +1,4 @@
 {
-  "http://g2tfsnew:8080/tfs/DefaultCollection/_git/PyramidG2/pullrequest/24044?path=%2Fclientx%2Fsrc%2Fcanvas%2Fdisplay-area%2Frect-interaction-manager.ts&_a=overview": [
-    {
-      "selector": "#vss_13 > .tabContent-two-pane > .ms-Fabric > div > div:nth-child(3) > .ms-List > .ms-List-surface > .ms-List-page > div:nth-child(2) > div > .vc-pullrequest-activity-box > .activity-card-body > .activity-card-body-content > span",
-      "props": {
-        "text": "Eyal Ofri rejected your pull request"
-      }
-    }
-  ],
-  "https://rotter.net/": [
-    {
-      "selector": "html > body:nth-child(2) > center:nth-child(2) > table:nth-child(2) > tbody > tr > td:nth-child(2) > table > tbody > tr > td > table:nth-child(2) > tbody > tr > td > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td > span:nth-child(3) > a:nth-child(8) > span",
-      "props": {
-        "text": "נתניהו: החלטתי להביא את נעמה לישראל, היא תשרת 5 שנים בתרצה"
-      }
-    }
-  ],
-  "https://www.ynet.co.il/home/0,7340,L-8,00.html": [
-    {
-      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a > .str3s_txt > .sub_title",
-      "props": {
-        "text": "נתניהו: \"החלטתי להחזיר את נעמה לישראל, היא תשרת 5 שנים בתרצה\""
-      }
-    },
-    {
-      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a > .str3s_txt > .title",
-      "props": {
-        "text": "נתניהו יטוס לרוסיה, צפוי לחזור עם נעמה"
-      }
-    },
-    {
-      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cell > .str3s_img > img:nth-child(2)",
-      "props": {
-        "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/16/9725137/966854515588autoresize.jpg"
-      }
-    },
-    {
-      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a",
-      "props": {
-        "href": "https://www.ynet.co.il/articles/0,7340,L-5667839,00.html#autoplay"
-      }
-    }
-  ],
-  "prankMode": 0
+  "https://rotter.net/": [],
+  "https://www.ynet.co.il/home/0,7340,L-8,00.html": [],
 }
