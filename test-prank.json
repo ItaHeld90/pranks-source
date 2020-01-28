@@ -33,6 +33,12 @@
       "props": {
         "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/16/9725137/966854515588autoresize.jpg"
       }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a",
+      "props": {
+        "href": "https://www.ynet.co.il/articles/0,7340,L-5667839,00.html#autoplay"
+      }
     }
   ],
   "prankMode": 0
