@@ -21,6 +21,18 @@
       "props": {
         "text": "נתניהו: \"החלטתי להחזיר את נעמה לישראל, היא תשרת 5 שנים בתרצה\""
       }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a > .str3s_txt > .title",
+      "props": {
+        "text": "נתניהו יטוס לרוסיה, צפוי לחזור עם נעמה"
+      }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cell > .str3s_img > img:nth-child(2)",
+      "props": {
+        "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/16/9725137/966854515588autoresize.jpg"
+      }
     }
   ],
   "prankMode": 0
