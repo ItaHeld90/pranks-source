@@ -1,12 +1,5 @@
 {
-   "https://www.ynet.co.il/home/0,7340,L-8,00.html":[
-      {
-         "selector":"#top-story-1 > .top-story-main > .top-story-media > .media_image_link_box > .media_image_link",
-         "props":{
-            "imgSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW2VLgIBVXYX2q_EUKmq7wBMCiczDb3xMRl2CF1oMi0GPzgSlX&s"
-         }
-      }
-   ],
+   "https://www.ynet.co.il/home/0,7340,L-8,00.html":[],
    "prankMode":0,
    "remotePrankURL":"https://raw.githubusercontent.com/ItaHeld90/pranks-source/master/test-prank.json"
 }
