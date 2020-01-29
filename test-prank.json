@@ -1,4 +1,11 @@
 {
-  "https://rotter.net/": [],
+  "https://rotter.net/": [
+    {
+      "selector": "html > body:nth-child(2) > center:nth-child(2) > table:nth-child(2) > tbody > tr > td:nth-child(2) > table > tbody > tr > td > table:nth-child(2) > tbody > tr > td > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td > span:nth-child(3) > a:nth-child(11) > span",
+      "props": {
+        "text": "התעשייה האווירית חושפת לראשונה את מנוע האנליטיקה שלה: פירמיד אנליטיקס"
+      }
+    }
+  ],
   "https://www.ynet.co.il/home/0,7340,L-8,00.html": [],
 }
