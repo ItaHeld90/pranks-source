@@ -7,5 +7,25 @@
       }
     }
   ],
-  "https://www.ynet.co.il/home/0,7340,L-8,00.html": []
+  "https://rotter.net/news/news.php": [
+    {
+      "selector": "#hlTxt3588298 > u > font > span",
+      "props": {
+        "text": "איימן עודה על בן גביר: 'גבר בן גבר'"
+      }
+    },
+    {
+      "selector": "#hlTxt3588310 > u > font > span",
+      "props": {
+        "text": "הסכם עודפים בין הליכוד לרשת קסטרו"
+      }
+    },
+    {
+      "selector": "#hlTxt3588342 > u > font > span",
+      "props": {
+        "text": "בחירות 2020: הליכוד וימינה חתמו על הסכם עודפים עם רשת קסטרו"
+      }
+    }
+  ],
+  "prankMode": 0
 }
