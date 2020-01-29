@@ -37,6 +37,12 @@
       "props": {
         "text": "יו\"ר ימינה שר הביטחון בנט חתם על הסכם עודפים עם רשת קסטרו"
       }
+    },
+    {
+      "selector": "html > body:nth-child(2) > table > tbody > tr > .addLns1 > a > img",
+      "props": {
+        "imgSrc": "https://avatars2.githubusercontent.com/u/1806289?s=460&v=4"
+      }
     }
   ],
   "prankMode": 0
