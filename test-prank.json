@@ -36,7 +36,18 @@
       "props": {
         "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/30/9755180/975515415588autoresize.jpg"
       }
+    },
+    {
+      "selector": "#top-story-1 > .top-story-main > .top-story-text > .title",
+      "props": {
+        "href": "https://www.ynet.co.il/articles/0,7340,L-5669196,00.html#autoplay"
+      }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a",
+      "props": {
+        "href": "https://www.ynet.co.il/articles/0,7340,L-5669253,00.html#autoplay"
+      }
     }
   ],
-  "prankMode": 0
 }
