@@ -1,4 +1,12 @@
 {
+  "https://www.ynet.co.il/articles/0,7340,L-5668617,00.html": [
+    {
+      "selector": "#main > .row > .col-8 > .article > .article-header > .text-secondary",
+      "props": {
+        "text": "הייתם מוכנים ללכת על חבל דק כשמסביבכם נוף מדהים, מעליכם שמיים ומתחתיכם תהום? אסף וייס, בוגר קורס מדריכי לנדמרק, עושה את זה באופן קבוע. בדקנו איתו מה מרגישים במהלך ההליכה (אדרנלין מטורף), מה הכי קשה בספורט הזה (להתמודד עם הפחד), מה המקום הכי יפה שהלך בו (האלפים בצרפת) וגם מה יקרה אם הוא ייפול מהחבל"
+      }
+    }
+  ],
   "https://www.ynet.co.il/home/0,7340,L-8,00.html": [
     {
       "selector": "#top-story-1 > .top-story-main > .top-story-text > .sub-title",
@@ -48,6 +56,25 @@
       "props": {
         "href": "https://www.ynet.co.il/articles/0,7340,L-5669253,00.html#autoplay"
       }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > div:nth-child(2) > .str3s > .cwide > a > .str3s_txt > .sub_title",
+      "props": {
+        "text": "אסף וייס הוא לא לוליין, אלא בוגר לנדמרק – שהולך על חבל בגובה של מאות מטרים כשמסביב נוף מדהים. איך הוא מתמודד עם הפחד?"
+      }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > div:nth-child(2) > .str3s > .cwide > a > .str3s_txt > .title",
+      "props": {
+        "text": "\"הגוף רועד\": האיש שהולך על חבל בגובה"
+      }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > div:nth-child(2) > .str3s > .cwide > a",
+      "props": {
+        "href": "https://www.ynet.co.il/articles/0,7340,L-5668617,00.html#autoplay"
+      }
     }
-  ]
+  ],
+  "prankMode": 0
 }
