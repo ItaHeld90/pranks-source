@@ -12,6 +12,30 @@
       "props": {
         "text": "איטליה אוסרת על אלפי תיירים שיצאו לשיט תענוגות לעזוב את הסיפון באזור רומא. הסיבה: עומר אדם מראה את סימני השפעת"
       }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a > .str3s_txt > .title",
+      "props": {
+        "text": "בהלת הקורונה: 6,000 תקועים בספינה"
+      }
+    },
+    {
+      "selector": "#top-story-1 > .top-story-main > .top-story-media > .media_image_link_box > .media_image_link",
+      "props": {
+        "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/30/9754764/975476301000100640360no.jpg"
+      }
+    },
+    {
+      "selector": "#top-story-1 > .top-story-main > .top-story-text > .title > .subtitle",
+      "props": {
+        "text": "המחיר ששולם לרוסים על שחרור נעמה יששכר"
+      }
+    },
+    {
+      "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cell > .str3s_img > img:nth-child(2)",
+      "props": {
+        "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/30/9755180/975515415588autoresize.jpg"
+      }
     }
   ],
   "prankMode": 0
