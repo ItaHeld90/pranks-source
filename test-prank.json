@@ -1,47 +1,10 @@
 {
-  "https://rotter.net/": [
+  "https://www.ynet.co.il/home/0,7340,L-8,00.html": [
     {
-      "selector": "html > body:nth-child(2) > center:nth-child(2) > table:nth-child(2) > tbody > tr > td:nth-child(2) > table > tbody > tr > td > table:nth-child(2) > tbody > tr > td > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td > span:nth-child(3) > a:nth-child(11) > span",
+      "selector": "#top-story-1 > .top-story-main > .top-story-text > .sub-title",
       "props": {
-        "text": "התעשייה האווירית חושפת לראשונה את מנוע האנליטיקה שלה: פירמיד אנליטיקס"
-      }
-    }
-  ],
-  "https://rotter.net/news/news.php": [
-    {
-      "selector": "#hlTxt3588298 > u > font > span",
-      "props": {
-        "text": "איימן עודה על בן גביר: 'גבר בן גבר'"
-      }
-    },
-    {
-      "selector": "#hlTxt3588310 > u > font > span",
-      "props": {
-        "text": "הסכם עודפים בין הליכוד לרשת קסטרו"
-      }
-    },
-    {
-      "selector": "#hlTxt3588342 > u > font > span",
-      "props": {
-        "text": "בחירות 2020: הליכוד וימינה חתמו על הסכם עודפים עם רשת קסטרו"
-      }
-    },
-    {
-      "selector": "#hlTxt3588347 > u > font > span",
-      "props": {
-        "text": "אחרי ארה\"ב ורוסיה: נתניהו צפוי לבקר בדיסני לנד בשבוע הבא"
-      }
-    },
-    {
-      "selector": "#hlTxt3588311 > u > font > span",
-      "props": {
-        "text": "יו\"ר ימינה שר הביטחון בנט חתם על הסכם עודפים עם רשת קסטרו"
-      }
-    },
-    {
-      "selector": "html > body:nth-child(2) > table > tbody > tr > .addLns1 > a > img",
-      "props": {
-        "imgSrc": "https://avatars2.githubusercontent.com/u/1806289?s=460&v=4"
+        "text": "בפמליית נתניהו אמרו כי \"לא הייתה עסקה\", אבל ישראל כן העניקה מחוות לרוסים - 10 מיליון רגליים קרושות לעניים ושינוי שמו של נתב\"ג ל \"נמל תעופה ולדימיר\" לשנתיים הקרובות.\nאם לא יתקיימו התנאים תוך שבועיים - נעמה תחזור לרוסיה.",
+        "href": "https://www.ynet.co.il/articles/0,7340,L-5669208,00.html#autoplay"
       }
     }
   ],
