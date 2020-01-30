@@ -21,12 +21,6 @@
       }
     },
     {
-      "selector": "#top-story-1 > .top-story-main > .top-story-media > .media_image_link_box > .media_image_link",
-      "props": {
-        "imgSrc": "https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/PicServer5/2020/01/30/9754764/975476301000100640360no.jpg"
-      }
-    },
-    {
       "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a",
       "props": {
         "href": "https://www.ynet.co.il/articles/0,7340,L-5669253,00.html#autoplay"
