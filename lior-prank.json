@@ -9,13 +9,6 @@
   ],
   "https://www.ynet.co.il/home/0,7340,L-8,00.html": [
     {
-      "selector": "#top-story-1 > .top-story-main > .top-story-text > .sub-title",
-      "props": {
-        "text": "בפמליית נתניהו אמרו כי \"לא הייתה עסקה\", אבל ישראל כן העניקה מחוות לרוסים - 10 מיליון רגליים קרושות לעניים ושינוי שמו של נתב\"ג ל \"נמל תעופה ולדימיר\" לשנתיים הקרובות.\nאם לא יתקיימו התנאים תוך שבועיים - נעמה תחזור לרוסיה.",
-        "href": "https://www.ynet.co.il/articles/0,7340,L-5669208,00.html#autoplay"
-      }
-    },
-    {
       "selector": "#F_Content > .block > div:nth-child(3) > .block > .block > .element > .str3s > .cwide > a > .str3s_txt > .sub_title",
       "props": {
         "text": "איטליה אוסרת על אלפי תיירים שיצאו לשיט תענוגות לעזוב את הסיפון באזור רומא. הסיבה: עומר אדם מראה את סימני השפעת"
