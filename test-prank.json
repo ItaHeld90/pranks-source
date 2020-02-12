@@ -1,1 +1,11 @@
-{}
+{
+  "https://www.ynet.co.il/home/0,7340,L-8,00.html": [
+    {
+      "selector": "#F_Content > .block > div:nth-child(6) > div:nth-child(4) > .block > .element > .calcalist_frame > .calcalist_red_frame > .calcalist_data > .calcalist_body > .calcalist_titles > div > .calcalist_headline > a > span",
+      "props": {
+        "text": "בלה בלה"
+      }
+    }
+  ],
+  "prankMode": 0
+}
